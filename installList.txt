@@ -1,2 +1,9 @@
 sudo apt-get udpate
 sudo apt-get install vim meld kdiff3 kolourpaint git chromium-browser
+
+
+## Install Nvidia drivers
+sudo apt purge nvidia-*
+sudo add-apt-repository ppa:graphics-drivers/ppa
+sudo apt update
+sudo apt install nvidia-<NUM> # example output from nvidia-detector : nvidia-driver-535
