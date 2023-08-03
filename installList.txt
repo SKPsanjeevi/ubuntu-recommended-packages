@@ -1,2 +1,2 @@
 sudo apt-get udpate
-sudo apt-get install vim meld kdiff3 kolourpaint git
+sudo apt-get install vim meld kdiff3 kolourpaint git chromium-browser
