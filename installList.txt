@@ -1,5 +1,5 @@
 sudo apt-get udpate
-sudo apt-get install vim meld kdiff3 kolourpaint git chromium-browser texmaker plocate shutter xournal pdfarranger inkscape
+sudo apt-get install vim meld kdiff3 kolourpaint git chromium-browser texmaker plocate shutter xournal pdfarranger inkscape code
 
 
 ## Install Nvidia drivers
